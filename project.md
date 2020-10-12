@@ -1,4 +1,4 @@
-#  _Weeek's Affairs_
+#  "Weeek's Affairs"
 # Требования к проекту
 # 1. Введение
 
